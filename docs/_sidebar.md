@@ -1,2 +1,2 @@
-* [Home](/)
+* [About](/)
 * [Guide](guide.md)
