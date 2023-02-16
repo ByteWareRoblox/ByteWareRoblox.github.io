@@ -1,2 +1,2 @@
 * [About](/)
-* [Guide](guide.md)
+* [Features](features.md)
